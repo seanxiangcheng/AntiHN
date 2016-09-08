@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[    302834,       7196]
+NotebookDataLength[    302832,       7196]
 NotebookOptionsPosition[    300212,       7120]
-NotebookOutlinePosition[    300559,       7135]
-CellTagsIndexPosition[    300516,       7132]
+NotebookOutlinePosition[    300557,       7135]
+CellTagsIndexPosition[    300514,       7132]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -7118,8 +7118,8 @@ Cell[BoxData["\<\"freeEration_63to1024_T09TgtoTg_LinearT.csv\"\>"], "Output",
   3.682248184293497*^9, 3.682292293957195*^9, 3.682292379248161*^9}]
 }, Open  ]]
 },
-WindowSize->{1440, 818},
-WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+WindowSize->{1006, 668},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
 FrontEndVersion->"10.0 for Microsoft Windows (32-bit) (September 9, 2014)",
 StyleDefinitions->"Default.nb"
 ]
@@ -7164,7 +7164,7 @@ Cell[125012, 3009, 522, 7, 31, "Output"]
 }, Open  ]],
 Cell[125549, 3019, 304, 6, 35, "Text"],
 Cell[CellGroupData[{
-Cell[125878, 3029, 17305, 461, 1252, "Input"],
+Cell[125878, 3029, 17305, 461, 1392, "Input"],
 Cell[143186, 3492, 3809, 75, 249, "Output"],
 Cell[146998, 3569, 4324, 83, 249, "Output"],
 Cell[151325, 3654, 22763, 562, 246, "Output"],
@@ -7178,7 +7178,7 @@ Cell[200874, 4824, 495, 6, 31, "Output"]
 }, Open  ]],
 Cell[201384, 4833, 335, 5, 41, "Text"],
 Cell[CellGroupData[{
-Cell[201744, 4842, 13900, 374, 1032, "Input"],
+Cell[201744, 4842, 13900, 374, 1172, "Input"],
 Cell[215647, 5218, 2053, 43, 260, "Output"],
 Cell[217703, 5263, 2046, 43, 259, "Output"],
 Cell[219752, 5308, 10000, 248, 259, "Output"],
@@ -7189,7 +7189,7 @@ Cell[241459, 5802, 270, 4, 31, "Output"]
 }, Open  ]],
 Cell[241744, 5809, 558, 15, 44, "Input"],
 Cell[CellGroupData[{
-Cell[242327, 5828, 13210, 367, 1012, "Input"],
+Cell[242327, 5828, 13210, 367, 1152, "Input"],
 Cell[255540, 6197, 3931, 70, 255, "Output"],
 Cell[259474, 6269, 3953, 71, 254, "Output"],
 Cell[263430, 6342, 12070, 281, 262, "Output"],
