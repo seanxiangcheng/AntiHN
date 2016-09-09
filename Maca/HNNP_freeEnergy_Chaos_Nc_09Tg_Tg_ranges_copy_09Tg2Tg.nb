@@ -3982,8 +3982,8 @@ Cell[BoxData["\<\"freeEration_63to1024_T09TgtoTg_LinearT.csv\"\>"], "Output",
   3.682248184293497*^9, 3.682292293957195*^9, 3.682292379248161*^9}]
 }, Open  ]]
 },
-WindowSize->{1301, 744},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowSize->{1440, 876},
+WindowMargins->{{0, Automatic}, {0, Automatic}},
 FrontEndVersion->"9.0 for Linux x86 (64-bit) (February 7, 2013)",
 StyleDefinitions->"Default.nb"
 ]
@@ -4024,7 +4024,7 @@ Cell[100151, 2666, 270, 4, 32, "Output"]
 }, Open  ]],
 Cell[100436, 2673, 558, 15, 43, "Input"],
 Cell[CellGroupData[{
-Cell[101019, 2692, 13210, 367, 1221, "Input"],
+Cell[101019, 2692, 13210, 367, 1199, "Input"],
 Cell[114232, 3061, 3931, 70, 251, "Output"],
 Cell[118166, 3133, 3953, 71, 251, "Output"],
 Cell[122122, 3206, 12070, 281, 259, "Output"],
