@@ -1,7 +1,7 @@
 HN35:
 y=-4,   0.01 (big jump, should be 0)
 y=-2,   0.01 (big jump, should be 0)
-y=-1,   1.6e-10
+y=-1,   1.6e-10 (should be 0)
 y=-0.5, 0.039
 y=0,    0.029
 y=0.5,  0.077
@@ -10,12 +10,12 @@ y=2,    0.058
 y=4,    0.057
 
 HNNP HN6:
-y=-4,   1.8e-6 (big jump)
-y=-2,   1.78e-6 (big jump)
-y=-1,   0.00297123 (big jump)
-y=-0.5, 0.00253559/indeterminate
+y=-4,   1.8e-6 (big jump, should be 0)
+y=-2,   1.78e-6 (big jump, should be 0)
+y=-1,   0.00297123 (big jump, should be 0)
+y=-0.5, 0.00253559/indeterminate (should be 0)
 y=0,    0
-y=0.5,  0.0096/indeterminate
+y=0.5,  0.0096/indeterminate (should be 0)
 y=1,    0
 y=2,    -1.4e-14
 y=4,    0.0180959(big jump)

@@ -348,7 +348,7 @@ void Initialize(struct StateInfo state[], int site[], int neighbors[], int neigh
       }
     }
     neighloc[L]=neig_index;
-    state[0].E = (Intpow(2,K+2)-4)/2;
+    state[0].E = (Intpow(2,K+2)+L)/2;
     state[0].logg = 0.0;
     state[0].H = 0.0;
   	for(i = 1; i < MaxLength; i++){
